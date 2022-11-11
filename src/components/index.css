@@ -1,0 +1,38 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#userimg {
+    display:inline-block;
+    font-size:1em;
+    width:2.5em;
+    height:2.5em;
+    line-height:2.5em;
+    text-align:center;
+    border-radius:50%;
+    background:linear-gradient(#2196f3,#e91e63);
+    vertical-align:middle;
+    color:white;
+    }
+
+[data-letters]:before {
+    content:attr(data-letters);
+    display:inline-block;
+    font-size:1em;
+    width:2.5em;
+    height:2.5em;
+    line-height:2.5em;
+    text-align:center;
+    border-radius:50%;
+    background:linear-gradient(#2196f3,#e91e63);
+    vertical-align:middle;
+    color:white;
+    }
+
+#profileimg{
+    background:linear-gradient(#2196f3,#e91e63);
+    color: white;
+    text-align: center;
+    line-height: 129px;
+    font-size: 100px;
+}
