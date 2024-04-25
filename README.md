@@ -1,34 +1,45 @@
-Website url - https://trf-placement-website.netlify.app/
-TRF Placement Website Documentation
-Overview
-This document provides information about the TRF Placement Website hosted on Netlify. The website is designed to facilitate placement activities for the TRF organization.
+# TRF Placement Website Documentation
 
-Website URL
-The website can be accessed at https://trf-placement-website.netlify.app/.
+## Overview
 
-Features
-1. Home Page
-The home page provides an overview of the TRF Placement program, highlighting its objectives and benefits.
+This document provides details about the TRF Placement Website hosted on Netlify. The website is designed to streamline placement activities for the TRF organization.
 
-2. About Us
-This section offers detailed information about the TRF organization, its history, and its mission.
+## Website URL
 
-3. Placement Opportunities
-The website lists available placement opportunities, including job descriptions, requirements, and application deadlines.
+The TRF Placement Website is accessible at [https://trf-placement-website.netlify.app/](https://trf-placement-website.netlify.app/).
 
-4. Interview Experience
-Students and job seekers can visit website for previous interview experinece.
-5. Contact Us
-Users can get in touch with the TRF Placement team through the contact form available on the website. The contact form requires users to input their name, email address, subject, and message.
+## Features
 
-Technology Stack
-Frontend: React, JavaScript,Tailwind CSS,Mongodb, NodeJS,Express JS
-Hosting: Netlify
-Installation and Setup
-Since the website is hosted on Netlify, there is no specific installation required. Users can simply visit the website URL to access its features.
+### 1. Home Page
+The home page offers an overview of the TRF Placement program, highlighting its objectives and benefits.
 
-Contributing
-If you wish to contribute to the development of the TRF Placement Website, please fork the repository, make your changes, and submit a pull request. Ensure that your code follows the coding standards and practices followed in the project.
+### 2. About Us
+This section provides detailed information about the TRF organization, including its history and mission.
 
-Support
-For any queries or issues related to the website, please contact the TRF Placement team through the contact form available on the website or reach out to the website administrator.
+### 3. Placement Opportunities
+The website showcases available placement opportunities, featuring job descriptions, requirements, and application deadlines.
+
+### 4. Interview Experience
+Students and job seekers can access previous interview experiences on the website to prepare better for upcoming interviews.
+
+### 5. Contact Us
+Users can reach out to the TRF Placement team via the contact form on the website. The form requires users to input their name, email address, subject, and message.
+
+## Technology Stack
+
+- Frontend: React, JavaScript, Tailwind CSS
+- Backend: NodeJS, Express JS
+- Database: MongoDB
+- Hosting: Netlify
+
+## Installation and Setup
+
+Since the website is hosted on Netlify, there's no specific installation needed. Users can directly visit the website URL to explore its features.
+
+## Contributing
+
+If you're interested in contributing to the TRF Placement Website, please fork the repository, implement your changes, and submit a pull request. Ensure your code aligns with the project's coding standards and practices.
+
+## Support
+
+For inquiries or issues related to the website, please use the contact form available on the website to get in touch with the TRF Placement team or contact the website administrator directly.
